@@ -11,7 +11,7 @@ on:
 #
 # 2. Change these variables for your configuration:
 env:
-  AZURE_WEBAPP_NAME: go-ga-testing    # set this to your application's name
+  AZURE_WEBAPP_NAME: go-testing-ga-19
   WORKING_DIRECTORY: '.'        # set this to the path to your path of working directory inside github repository, defaults to the repository root
   GO_VERSION: '1.18'            # set this to your application's go version
 
