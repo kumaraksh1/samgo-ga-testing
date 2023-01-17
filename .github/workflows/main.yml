@@ -9,9 +9,9 @@ on:
 #
 # 2. Change these variables for your configuration:
 env:
-  AZURE_WEBAPP_NAME: go18jan
+  AZURE_WEBAPP_NAME: lsu-go-19-webapp
   WORKING_DIRECTORY: '.'        # set this to the path to your path of working directory inside github repository, defaults to the repository root
-  GO_VERSION: '1.18'            # set this to your application's go version
+  GO_VERSION: '1.19'            # set this to your application's go version
 
 jobs:
  build-and-deploy:
