@@ -1,5 +1,6 @@
 name: Deploy Go package to Azure Web App as a Linux web app.
 
+
 on:
   [push]
 # CONFIGURATION
