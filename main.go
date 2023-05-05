@@ -11,5 +11,5 @@ func main() {
 }
 
 func HelloServer(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hello Test GA Azure Deploy GO 1.19")
+	fmt.Fprintf(w, "GHA KT")
 }
